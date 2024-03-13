@@ -1,0 +1,14 @@
+{
+  "name": "1-proyectojsonserver",
+  "version": "0.0.1",
+  "description": "Armaremos un pequeño servidor con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Juan Simon Zubigaray",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
